@@ -1,0 +1,7 @@
+asset,asset_class,position_value_cr
+US_Equity,Equity,38.0
+Tech_Equity,Equity,27.0
+Gov_Bond,Rates,18.0
+Corporate_Bond,Credit,12.0
+USD_INR,FX,10.0
+Gold,Commodity,8.0

@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated reports and local analysis outputs
+outputs/*
+!outputs/.gitkeep
+
+# Local-only interview / application notes
+docs/interview_prep.md
+docs/resume_bullets.md
+
+# Generated market data
+# Uncomment if you prefer to regenerate data locally instead of tracking it.
+# data/prices.csv
